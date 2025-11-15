@@ -149,19 +149,6 @@ Se você usar este dataset em sua pesquisa, por favor cite:
 }
 ```
 
-### 🤝 Contribuições
-
-Contribuições são bem-vindas! Para reportar problemas ou sugerir melhorias:
-- **Issues**: [GitHub Issues](https://github.com/PJarbas/OfensaBR-10k/issues)
-- **Pull Requests**: Abra uma PR com suas sugestões
-
-### 📞 Contato
-
-- **HuggingFace**: [pjarbas312/OfensaBR-10k](https://huggingface.co/datasets/pjarbas312/OfensaBR-10k)
-- **GitHub**: [PJarbas/OfensaBR-10k](https://github.com/PJarbas/OfensaBR-10k)
-
----
-
 ## English Version
 
 ### 📊 Overview
