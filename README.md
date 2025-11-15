@@ -300,15 +300,3 @@ If you use this dataset in your research, please cite:
   howpublished={\url{https://huggingface.co/datasets/pjarbas312/OfensaBR-10k}}
 }
 ```
-
-### 🤝 Contributions
-
-Contributions are welcome! To report issues or suggest improvements:
-- **Issues**: [GitHub Issues](https://github.com/PJarbas/OfensaBR-10k/issues)
-- **Pull Requests**: Open a PR with your suggestions
-
-### 📞 Contact
-
-- **HuggingFace**: [pjarbas312/OfensaBR-10k](https://huggingface.co/datasets/pjarbas312/OfensaBR-10k)
-- **GitHub**: [PJarbas/OfensaBR-10k](https://github.com/PJarbas/OfensaBR-10k)
-
